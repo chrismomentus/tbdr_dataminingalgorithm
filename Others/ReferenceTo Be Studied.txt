@@ -1,0 +1,7 @@
+G.Dong, J. Li,Efficient mining of emerging patterns: discovering trends and
+ differences, in: Proceedings of ACMSIGKDD International Conference on
+ Knowledge Discovery and Data Mining(KDD),1999,pp.43–52. 
+
+ [13]W.Duivesteijn,A.J.Knobbe,Exploiting false discoveries – statistical validation
+ of patterns and quality measures insubgroupdiscovery, in:Proceedings of
+ IEEE International Conferenceon Data Mining(ICDM),2011,pp.151–160.
